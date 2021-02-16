@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724302911271",
+    "project_id": "festi-48d6b",
+    "storage_bucket": "festi-48d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724302911271:android:f04e57361c9ef25c15fb02",
+        "android_client_info": {
+          "package_name": "com.example.festi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724302911271-591ettklbduc3o4cjhr5gv1qfrid4omd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8lqelsndUAr4XNuyiI-FKqVdIXGTT8sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724302911271-591ettklbduc3o4cjhr5gv1qfrid4omd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
